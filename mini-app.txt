@@ -1,0 +1,68 @@
+
+{
+    "general_config":{
+       "hide_back_button":false,
+       "navbar_color":"#00FF5733",
+       "title_color":"#F0555555"
+    },
+
+    "action_sheet_item":[
+       {
+          "type":"about",  
+          "publisher_name_th":"บริษัท ทรู มันนี่ จำกัด",
+          "publisher_name_en":"TrueMoney Co. ltd,",
+          "version":"1.0.0",
+          "publish_date_th":"20 มิ.ย. 2563",
+          "publish_date_en":"20 Jun 2020",
+          "support":[
+             {
+                "type":"phone",
+                "phone_no":"+6633333333",
+                "title_th":"โทร",
+                "title_en":"Call",
+                "description_th":"ภาษาไทย",
+                "description_en":"English"
+             },
+             {
+                "type":"deeplink",
+                "title_th":"สนทนากับทรูมันนี่แคร์",
+                "title_en":"TMN Live Chat",
+                "description_th":"ภาษาไทย",
+                "description_en":"dsdsdsdsdds",
+                "deeplink":"ascendmoney://wallet.truemoney.co.th/app/660000000022?type=content&method=null"
+             },
+             {
+                "type":"web_browser",
+                "title_th":"ช่วยเหลือ",
+                "title_en":"Support",
+                "description_th":"ภาษาไทย",
+                "description_en":"xxxxxxxxxxxx",
+                "url":"https://www.dhipayainsurance.com/support/chat"
+             }
+          ]
+       },
+      {
+         "type":"share",
+          "path":"/shelf/hotpackage"
+      },
+       {
+          "actions_sheet_text_th":"Hot Packages",
+          "actions_sheet_text_en":"Hot Packages",
+          "type":"path",
+          "path":"/shelf/hotpackage"
+       },
+       {
+          "actions_sheet_text_th":"ภาษา",
+          "actions_sheet_text_en":"Language",
+          "type":"path",
+          "path":"/setup/language"
+       },
+       {
+          "actions_sheet_text_th":"What's news",
+          "actions_sheet_text_en":"What's news",
+          "type":"path",
+          "path":"/shelf/hotpackage" 
+       }
+    ]
+ }
+
