@@ -40,6 +40,28 @@
                 "url":"https://www.dhipayainsurance.com/support/chat"
              }
           ]
+       },
+      {
+         "type":"share",
+          "path":"/shelf/hotpackage"
+      },
+       {
+          "actions_sheet_text_th":"Hot Packages",
+          "actions_sheet_text_en":"Hot Packages",
+          "type":"path",
+          "path":"/shelf/hotpackage"
+       },
+       {
+          "actions_sheet_text_th":"ภาษา",
+          "actions_sheet_text_en":"Language",
+          "type":"path",
+          "path":"/setup/language"
+       },
+       {
+          "actions_sheet_text_th":"What's news",
+          "actions_sheet_text_en":"What's news",
+          "type":"path",
+          "path":"/shelf/hotpackage" 
        }
     ]
  }
