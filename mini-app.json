@@ -2,8 +2,8 @@
 {
     "general_config":{
        "hide_back_button":false,
-       "navbar_color":"#BD43BE31",
-       "title_color":"#00FFFFFF"
+       "navbar_color":"#FFFFFFFFF",
+       "title_color":"#F0555555"
     },
 
     "action_sheet_item":[
