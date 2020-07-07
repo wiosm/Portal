@@ -3,7 +3,7 @@
     "general_config":{
        "hide_back_button":false,
        "navbar_color":"#BD43BE31",
-       "title_color":"#F0555555"
+       "title_color":"#00FFFFFF"
     },
 
     "action_sheet_item":[
